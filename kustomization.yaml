@@ -4,5 +4,5 @@ resources:
 secretGenerator:
 - name: firefly-iii-secrets
   literals:
-  - db_password=CHANGEMECHANGEME
-  - app_key=CHANGEMECHANGEMECHANGEMECHANGEME
+  - db_password=100%Koffie
+  - app_key=VFa6TzMbQ4GHFNY2Xkqf6tU729jSseEL
